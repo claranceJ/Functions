@@ -22,15 +22,15 @@
 
 # RETURNING A VALUE FROM A FUNCTION
 
-# def total_number(num1,num2):
-#   result = num1 + num2
-#   return result
+def total_number(num1,num2):
+  result = num1 + num2
+  return result
 
-# first_num = 29
-# second_num =34
+first_num = 29
+second_num =34
 
-# sum_total=total_number(first_num,second_num)
-# print(f"the total number is {sum_total}")
+sum_total=total_number(first_num,second_num)
+print(f"the total number is {sum_total}")
 
 
 # make  a function 
